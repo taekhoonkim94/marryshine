@@ -1,40 +1,80 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "Welcome to My Blog",
+      "id": 0,
+      "title": "프론트엔드 개발자가 되려면 어떤 언어를 배워야 하나요?",
       "content": "This is the content of the first post. Welcome to my blog!",
       "author": "John Doe",
       "date": "2024-07-01",
       "tags": ["introduction", "welcome"]
     },
     {
-      "id": 2,
-      "title": "Understanding JavaScript",
+      "id": 1,
+      "title": "React와 Vue.js 중 어떤 프레임워크를 선택해야 할까요?",
       "content": "In this post, we will explore the fundamentals of JavaScript.",
       "author": "Jane Smith",
       "date": "2024-07-02",
       "tags": ["javascript", "programming", "tutorial"]
     },
     {
-      "id": 3,
-      "title": "Advanced CSS Techniques",
+      "id": 2,
+      "title": "프론트엔드 개발에서 중요한 HTML5 태그와 속성은 무엇인가요?",
       "content": "Learn about advanced CSS techniques to improve your web design.",
       "author": "Emily Johnson",
       "date": "2024-07-03",
       "tags": ["css", "design", "web"]
     },
     {
-      "id": 4,
-      "title": "Getting Started with React",
+      "id": 3,
+      "title": "CSS Flexbox와 Grid 레이아웃의 차이점은 무엇인가요?",
       "content": "This post will guide you through the basics of getting started with React.",
       "author": "Michael Brown",
       "date": "2024-07-04",
       "tags": ["react", "javascript", "frontend"]
     },
     {
+      "id": 4,
+      "title": "웹사이트 성능 최적화를 위한 팁과 트릭",
+      "content": "An introduction to Node.js for beginners.",
+      "author": "Sarah Wilson",
+      "date": "2024-07-05",
+      "tags": ["node.js", "backend", "javascript"]
+    },
+        {
       "id": 5,
-      "title": "Node.js for Beginners",
+      "title": "최신 프론트엔드 개발 트렌드와 기술 동향",
+      "content": "An introduction to Node.js for beginners.",
+      "author": "Sarah Wilson",
+      "date": "2024-07-05",
+      "tags": ["node.js", "backend", "javascript"]
+    },
+        {
+      "id": 6,
+      "title": "프론트엔드 개발자 포트폴리오 작성 가이드",
+      "content": "An introduction to Node.js for beginners.",
+      "author": "Sarah Wilson",
+      "date": "2024-07-05",
+      "tags": ["node.js", "backend", "javascript"]
+    },
+        {
+      "id": 7,
+      "title": "REST API와 GraphQL: 무엇이 더 좋을까?",
+      "content": "An introduction to Node.js for beginners.",
+      "author": "Sarah Wilson",
+      "date": "2024-07-05",
+      "tags": ["node.js", "backend", "javascript"]
+    },
+        {
+      "id": 8,
+      "title": "프론트엔드 개발자가 알아야 할 Git과 버전 관리 기본",
+      "content": "An introduction to Node.js for beginners.",
+      "author": "Sarah Wilson",
+      "date": "2024-07-05",
+      "tags": ["node.js", "backend", "javascript"]
+    },
+        {
+      "id": 9,
+      "title": "프론트엔드 개발자 면접 준비: 자주 묻는 질문과 답변",
       "content": "An introduction to Node.js for beginners.",
       "author": "Sarah Wilson",
       "date": "2024-07-05",
